@@ -2,7 +2,7 @@
   "name": "insight-api",
   "description": "A Bitcoin blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.3.1",
-  "repository": "git://github.com/bitpay/insight-api.git",
+  "repository": "git://github.com/phifly/insight-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,9 +38,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/bitpay/insight-api/issues"
+    "url": "https://github.com/phifly/insight-api/issues"
   },
-  "homepage": "https://github.com/bitpay/insight-api",
+  "homepage": "https://github.com/phifly/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
